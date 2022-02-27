@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the Right Honourable the Lord Major, aldermen, and commons in Common-Councel assembled. To a letter sent vnto them from his Excellency Sir Thomas Fairfax, and others of the chief officers in that army. With the answer of the Commons in Parliament assembled, to the committee of aldermen, and Common-councell-men appointed to present the said answer unto them. As also an act of Common-Councell authorizing the said committee to present the answer of the said letter to his Excellency.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88444</idno>
+            <idno type="STC">Wing L2851S</idno>
+            <idno type="STC">Thomason E392_21</idno>
+            <idno type="STC">ESTC R201576</idno>
+            <idno type="EEBO-CITATION">99862076</idno>
+            <idno type="PROQUEST">99862076</idno>
+            <idno type="VID">160284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160284)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the Right Honourable the Lord Major, aldermen, and commons in Common-Councel assembled. To a letter sent vnto them from his Excellency Sir Thomas Fairfax, and others of the chief officers in that army. With the answer of the Commons in Parliament assembled, to the committee of aldermen, and Common-councell-men appointed to present the said answer unto them. As also an act of Common-Councell authorizing the said committee to present the answer of the said letter to his Excellency.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 3, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, printer to the Honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160284:1" rendition="simple:additions"/>
+            <p>THE ANSVVER OF THE Right Honourable the Lord Major, Aldermen, and Commons in Common-Councell aſſembled.</p>
+            <p>TO A LETTER SENT Vnto them from his Excellency Sir <hi>Thomas Fairfax,</hi> and other of the Chief Officers in that ARMY.</p>
+            <p>With the Anſwer of the Commons in Parliament aſſembled, to the Committee of Aldermen and Common-councell-men appointed to preſent the ſaid Anſwer unto them.</p>
+            <p>As alſo an Act of Common-Councell authori<g ref="char:EOLhyphen"/>zing the ſaid Committee to preſent the Anſwer of the ſaid Letter to his Excellency.</p>
+            <p>Printed by <hi>Richard Cotes,</hi> Printer to the Honourable, City of LONDON, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160284:2"/>
+            <pb n="1" facs="tcp:160284:2"/>
+            <head>For his Excellency Sir <hi>Thomas Fairfax,</hi> Knight Generall of the Forces raiſed by the Par<g ref="char:EOLhyphen"/>liament, and the reſt of the Worthy Commanders.</head>
+            <opener>
+               <salute>Right Honourable and Worthy Commanders,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Letter dated at <hi>Royston</hi> the 10. of this inſtant <hi>June,</hi> wee the Major, Alder<g ref="char:EOLhyphen"/>men, and Commons in Common-Coun<g ref="char:EOLhyphen"/>cell aſſembled, have ſeriouſly peruſed, and preſented a Copy thereof to each Houſe of Parliament, and for your, and our farther ſatisfacti<g ref="char:EOLhyphen"/>on we have ſent a Committee of Aldermen and Commons with this our anſwer therunto; &amp; to pre<g ref="char:EOLhyphen"/>vent all miſunderſtanding betwixt that ſo wel-de<g ref="char:EOLhyphen"/>ſerving Army and this City: we take notice by that Letter, of your drawing neere this City with your Army, for the obtaining your deſires as Souldiers, and as Engliſh men, and of what you doe, and doe not intend thereby; more eſpecially that you come not to doe any Act to prejudice the being of Parli<g ref="char:EOLhyphen"/>aments, or to the hurt of this in order to the preſent ſettlement of the Kingdom, and of your Declarati<g ref="char:EOLhyphen"/>on, that if we appeare not againſt you in thoſe your
+<pb n="2" facs="tcp:160284:3"/> juſt deſires to aſſiſt thoſe that would imbroyle you and the Kingdome in a new War, that you intend no evill towards this City, nor that you or your Souldiers ſhall give it the leaſt offence. But we de<g ref="char:EOLhyphen"/>ſire that in regard your approach may, contrary to your intentions be an occaſion to increaſe the price of victuall, &amp; to diſcontented perſons to make ſome ill uſe thereof in raiſing of tumults, that you wil be pleaſed to take it into your further conſideration, and in order to your owne reſolution concerning this Cities ſafety, to forbeare quartering within thirty miles thereof, which we ſhall looke upon as a ſpeciall evidence of the ſincerity of your intenti<g ref="char:EOLhyphen"/>ons expreſſed in your Letter. We cannot paſſe by that expreſſion of yours, to hazard your owne blood for our preſervation, nor can wee returne you more reall thankes for it then this, to declare our reſolutions that the very thought of in<g ref="char:EOLhyphen"/>gaging this Kingdome in a new Warre, wee doe unanimouſly deteſt, and that wee intend no evill to you, but only to defend the Parliament and our ſelves againſt any unlawfull violence; for pre<g ref="char:EOLhyphen"/>vention wherof, leaſt it ſhould happen (though you never intended it) we have by the direction of Par<g ref="char:EOLhyphen"/>liament and for our owne ſafety put our ſelves in a poſture of defence; but not with the leaſt intenti<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:160284:3"/> to do any prejudice to that Army, whom God hath made ſo eminent an inſtrument of our deli<g ref="char:EOLhyphen"/>verance and ſafety. And we do diſavow the raiſing any forces, or taking up of Armes in oppoſition to, or with intent to hinder the obtaining of your juſt demands; yea, ſo far have we been and ſhal be from that, that both before, and ſince the receipt of your Letter, we have made our humble addreſſes to the Parliament for the obtaining thereof, which we ſhall not fail to proſecute as occaſion ſhall preſent; only this requeſt we earneſtly make in the name of this City, that you wil be careful when you deſcend to particulars, to deſire no more than what ſhall bee juſt and reaſonable, and in ſuch a way as may conſiſt with the honour, power and priviledge of Parlia<g ref="char:EOLhyphen"/>ment, liberty of the Subject, and ſafety of this Ci<g ref="char:EOLhyphen"/>ty and Kingdom; and we ſhall appeale to God and to the preſent and future generations, to judge of your and our performance according to the ſeverall engagements.</p>
+            <closer>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>12. <hi>Junii</hi> 1647.</date>
+               </dateline>
+               <signed>By command of the Major, Alder<g ref="char:EOLhyphen"/>men, and Commons of the City of <hi>London</hi> in Common-Counſell aſ<g ref="char:EOLhyphen"/>ſembled. <hi>Michel.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="resolution">
+            <pb n="4" facs="tcp:160284:4"/>
+            <head>Die Sabbathi, 12. Junii, 1647.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Houſe being informed that divers Aldermen, and Citizens of the City of <hi>London</hi> were at the door they were called in, and Mr. Alderman <hi>Fowke</hi> acquainted the Houſe, That they were commanded by the Lord Major, Aldermen, and Commons in Common-councell aſſembled, to preſent unto this Houſe their ſenſe upon a matter of very great importance.</p>
+            <p>They have again conſidered of the Generalls Letter unto them, and have made an Anſwer to it, which they have thought fit to acquaint this Houſe with, and to deſire their approbation of ſending it to the Army.</p>
+            <p>The Aldermen and the Gentlemen of the City being with<g ref="char:EOLhyphen"/>drawn, the Letter was read.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>Reſolved, &amp;c.</opener>
+                  <p>That this Houſe doth approve of the Cities ſending this Letter to the Army in the way they propoſe.</p>
+                  <p>The Aldermen and Citizens were againe called in, and Mr. Speaker by the command of the Houſe, acquainted them, that the Houſe had conſidered of their deſires, and of the Let<g ref="char:EOLhyphen"/>ter preſented by them, and are very ſenſible of their good affe<g ref="char:EOLhyphen"/>ctions to the Peace and good of the Kingdome, and Honour of the Parliament, for which hee was commanded to give them Thanks.</p>
+                  <closer>
+                     <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="text">
+            <pb facs="tcp:160284:4"/>
+            <head>Commune Concililum tentum in Camera <hi>Guild-hall</hi> Civitatis <hi>London,</hi> duodecimo die Junii, <hi>1647.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to an Order of this Court, made this day the Committee therein appointed, <hi>viz.</hi> Mr. Alderman <hi>Warner,</hi> Mr. Alderman <hi>Fowke,</hi> Mr. Alderman <hi>Gibbs,</hi> Mr. Alderman <hi>Viner, Chriſtopher Packe,</hi> Major <hi>Chamberlin, Thomas Noel,</hi> Col. <hi>Tho. Player,</hi> Major <hi>Hitchcock, Robert Low<g ref="char:EOLhyphen"/>der, Richard Waring,</hi> and <hi>Walter Pell,</hi> did preſent the draught of an Anſwer to the Letter received from his Excellency Sir <hi>Thomas Fairfax</hi> and other Comman<g ref="char:EOLhyphen"/>ders of the Army, which was here openly read, and after debate upon every particular clauſe therein, the ſame was approved of by this Court. And thereupon it is ordered that the ſaid Committee ſhall make their addreſſes forthwith to both Houſes of Parliament, and acquaint them with the Common-Councells intenti<g ref="char:EOLhyphen"/>on, to ſend the ſaid Anſwer unto the ſaid Army by the ſaid Committee, thereby to prevent all miſunderſtan<g ref="char:EOLhyphen"/>ding and further effuſion of blood; And that they will vouchſafe to take into their ſpeedy and ſerious conſi<g ref="char:EOLhyphen"/>deration, the juſt deſires of the Army, and give ſuch fit remedies thereunto as in their wiſedomes ſhall be thought fit. And this Court doth hereby give power and authoritie to the ſaid Committee to repair with all expedition unto the Army, and preſent the ſaid An<g ref="char:EOLhyphen"/>ſwer unto his Excellency; and to give and receive ſuch further ſatisfaction concerning the matter con<g ref="char:EOLhyphen"/>tained in the ſaid Anſwer as occaſion ſhall require, and to preſent the deſire of this Court, that his Excel<g ref="char:EOLhyphen"/>lencie and other the Commanders of the ſaid Army will have a ſpeciall care for the preſervation of his Ma<g ref="char:EOLhyphen"/>jeſties royall perſon whilſt he remaineth with them.</p>
+            <closer>
+               <signed>Michel.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
